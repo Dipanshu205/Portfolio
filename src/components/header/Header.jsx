@@ -52,6 +52,8 @@ const Header = () => {
                 <i className="uil uil-apps"></i>
             </div>
         </nav>
+
+        <h1>toggled data</h1>
     </header>
   )
 }
